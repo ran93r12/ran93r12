@@ -33,7 +33,7 @@ You can use the website to generate badges: https://shields.io/
      <b>🤔 Exploring: </b> Web 3.0;
    </li>
    <li>
-      <b>⚗️ Experimenting on: </b> How to turn things into crazy :zany_face:
+      <b>⚗️ Experimenting on: </b>Turning things to crazy :zany_face:
    </li>
    <li>
      <b>💬 Ask me about: </b> Anything tech related :technologist:
