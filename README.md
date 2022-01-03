@@ -30,7 +30,7 @@ You can use the website to generate badges: https://shields.io/
      <b>🤔 Exploring: </b> Web 3.0;
    </li>
    <li>
-      <b>⚗️ Experimenting on: </b> How to turn things into crazy.
+      <b>⚗️ Experimenting on: </b> How to turn things into crazy :zany_face:	.
    </li>
    <li>
      <b>💬 Ask me about: </b> Anything tech related.
@@ -41,7 +41,7 @@ You can use the website to generate badges: https://shields.io/
    </li>
    
    <li>
-     <b>⚡ Fun fact:  </b>Till now, I don't the exact meaning of my name.
+     <b>⚡ Fun fact:  </b>Till now, I don't the exact meaning of my name :sweat_smile:	.
    </li>
 </ul>
 
@@ -64,15 +64,14 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
   <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-
-
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 </p>
