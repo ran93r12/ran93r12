@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/ran93r1210/ran93r/blob/main/asset/git-header.svg" />
 <ul>
 <li>
   <b>🔭 Currently looking for:</b> Intern.
@@ -50,7 +50,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+ <img width="55%" align="right" alt="Github" src="https://github.com/ran93r1210/ran93r/blob/main/asset/life_balance.gif" />
 
 
   <!-- Your languages and tools. Be careful with the alignment. 
