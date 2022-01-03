@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Ponith Attili 👋, a tech savvy 
+## Hi, I'm Ponith Attili 👋, a tech savvy 🚀
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -22,6 +22,9 @@ You can use the website to generate badges: https://shields.io/
    </li>
   <li>
      <b>🌱 Getting better at:  </b>  Data Structures.
+   </li>
+   <li>
+     <b>🧠 Currently learning:  </b> Beauty of CS :sparkling_heart:	.
    </li>
   <li>
     <b>👯 Collaboration with : </b> Same minded people 🤝
