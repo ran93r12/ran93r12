@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
      <b>🌱 Getting better at:  </b>  Data Structures.
    </li>
    <li>
-     <b>🧠 Currently learning:  </b> Beauty of CS :sparkling_heart:	.
+     <b>🧠 Currently learning:  </b> Beauty of CS :sparkling_heart:
    </li>
   <li>
     <b>👯 Collaboration with : </b> Same minded people 🤝
