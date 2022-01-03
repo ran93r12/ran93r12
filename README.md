@@ -18,30 +18,30 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <ul>
 <li>
-  <b>🔭 Currently looking for:</b> Intern;
+  <b>🔭 Currently looking for:</b> Intern.
    </li>
   <li>
-     <b>🌱 Getting better at:  </b>  Data Structures;
+     <b>🌱 Getting better at:  </b>  Data Structures.
    </li>
   <li>
-    <b>👯 Collaboration with : </b> Same minded people 🤝;
+    <b>👯 Collaboration with : </b> Same minded people 🤝
   </li>
   <li>
      <b>🤔 Exploring: </b> Web 3.0;
    </li>
    <li>
-      <b>⚗️ Experimenting on: </b> How to turn things into crazy :zany_face:	.
+      <b>⚗️ Experimenting on: </b> How to turn things into crazy :zany_face:
    </li>
    <li>
-     <b>💬 Ask me about: </b> Anything tech related.
+     <b>💬 Ask me about: </b> Anything tech related :technologist:
    </li>
  
    <li>
-     <b>📫 How to reach me: </b> shoot a mail.
+     <b>📫 How to reach me: </b>:point_right:	 shoot a mail.
    </li>
    
    <li>
-     <b>⚡ Fun fact:  </b>Till now, I don't the exact meaning of my name :sweat_smile:	.
+     <b>⚡ Fun fact:  </b>I don't the exact meaning of my name :sweat_smile:
    </li>
 </ul>
 
