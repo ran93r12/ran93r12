@@ -26,16 +26,19 @@ You can use the website to generate badges: https://shields.io/
 
 <ul>
 <li>
-  <b>🔭 Currently working on:</b> React JS,Redux.
+  <b>🔭 Currently looking for:</b> Intern;
    </li>
   <li>
-     <b>🌱 Getting better at:  </b>  Application UI,Coding patterns.
+     <b>🌱 Getting better at:  </b>  Data Structures;
    </li>
   <li>
-     <b>🤔 Exploring: </b> Web 3.0.
+    <b>👯 Collaboration with : </b> Same minded people 🤝;
+  </li>
+  <li>
+     <b>🤔 Exploring: </b> Web 3.0;
    </li>
    <li>
-      <b>⚗️ Experimenting on: </b> Improving the efficiency of my code.
+      <b>⚗️ Experimenting on: </b> How to turn things into crazy.
    </li>
    <li>
      <b>💬 Ask me about: </b> Anything tech related.
@@ -46,7 +49,7 @@ You can use the website to generate badges: https://shields.io/
    </li>
    
    <li>
-     <b>⚡ Fun fact:  </b> Ain't no love like the love of a biryani.
+     <b>⚡ Fun fact:  </b>Till now, I don't the exact meaning of my name.
    </li>
 </ul>
 
@@ -60,6 +63,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
